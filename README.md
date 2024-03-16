@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Weather App](https://bihanmadhusankha.github.io/Weather-App/)
 
-- 🌱 I’m currently learning **Node js, express js, kotlin**
+- 🌱 I’m currently learning **Node js, express js, kotlin , Mongo db**
 
 - 💬 Ask me about **HTML, CSS, JAVA, Js**
 
