@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bihanmadhusankha" alt="bihanmadhusankha" /></a> </p>
 
-- 🔭 I’m currently working on [Lake-shrimps-collecting-system](https://bihanmadhusankha.github.io/Weather-App/)
+- 🔭 I’m currently working on [Lake-shrimps-collecting-system]([https://bihanmadhusankha.github.io/Weather-App/](https://bihanmadhusankha.github.io/Lake-shrimps-collecting-system/))
 
 - 🌱 I’m currently learning **Node js, express js, kotlin , Mongo db**
 
